@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "3D Design",
+        "content": "Product based concepts, models, animation and directing stunning renders."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "Graphic Design",
+        "content": "Posters, art covers and billboard designs."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Video Editting",
+        "content": "Sequencing, directing, editting and color correction."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Music Visuals",
+        "content": "Stage set visuals for performers."
+    }
+]
